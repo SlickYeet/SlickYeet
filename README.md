@@ -12,13 +12,7 @@
     - [Next.js](https://nextjs.org "Next JS")
     - [React.js](https://react.dev "React JS")
     - [TypeScript](https://www.typescriptlang.org/ "TypeScript")
-    - [Lucia-auth](https://lucia-auth.com/ "Lucia-auth")
-    - [Axios](https://axios-http.com/ "Axios")
-    - [Prisma](https://prisma.io "Prisma")
     - [MySQL](https://www.mysql.com/ "MySQL")
-    - [Nodemailer](https://www.nodemailer.com/ "Nodemailer")
-    - [shadcn/ui](https://ui.shadcn.com/ "shadcn/ui")
-    - [Tailwind CSS](https://tailwindcss.com "Tailwind CSS")
 
 💼 **Projects**:
 - [Homelab](https://www.famlam.ca/dashboard): Home automation and administration using [Proxmox Virtual Environment](https://www.proxmox.com/en/proxmox-virtual-environment/overview).
