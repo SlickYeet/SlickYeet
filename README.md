@@ -1,20 +1,17 @@
 👋 Hi there, I'm Lasse, a full-time BCIT CISA (Computer Information Systems Administration) student with a passion for IT and web development. Here's a bit more about me:
 
 🚀 **Skills & Technologies**:
-- Proficient in:
-    - System Administration and Integration
-    - Linux CLI
-    - Windows Server
-    - Azure Cloud
-    - AWS Cloud
-    
+
+- Skilled with:
+
+  [![My Skills](https://skillicons.dev/icons?i=windows,bash,azure,aws,cloudflare,html,css,htmx,tailwind)](https://skillicons.dev)
+
 - Currently learning:
-    - [Next.js](https://nextjs.org "Next JS")
-    - [React.js](https://react.dev "React JS")
-    - [TypeScript](https://www.typescriptlang.org/ "TypeScript")
-    - [MySQL](https://www.mysql.com/ "MySQL")
+
+  [![Currently learning](https://skillicons.dev/icons?i=next,react,ts,mysql)](https://skillicons.dev)
 
 💼 **Projects**:
+
 - [Homelab](https://www.famlam.ca/dashboard): Home automation and administration using [Proxmox Virtual Environment](https://www.proxmox.com/en/proxmox-virtual-environment/overview).
 - [www.famlam.ca](https://www.famlam.ca): A homelab hobby web project for friends and family. [GitHub/famlam](https://github.com/SlickYeet/famlam)
 
