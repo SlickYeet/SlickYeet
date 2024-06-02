@@ -1,4 +1,4 @@
-👋 Hi there, I'm Lasse, a full-time BCIT CISA (Computer Information Systems Administration) student with a passion for IT and web development. Here's a bit more about me:
+👋 Hi there, I'm Lasse, a former BCIT CISA (Computer Information Systems Administration) student with a passion for IT and web development. Here's a bit more about me:
 
 🚀 **Skills & Technologies**:
 
@@ -17,7 +17,7 @@
 - [docs.famlam.ca](https://docs.famlam.ca): A documentation site for my homelab, detailing configurations, setups, and various IT projects. This site helps in maintaining organized and accessible information for troubleshooting and future expansions. It is open-source and contributions are welcomed. [GitHub/Docs](https://github.com/famlam-ca/hhn-documentation)
 
 🎓 **Education**:
-Currently pursuing my studies in Computer Information Systems Administration (CISA) at BCIT. Particularly interested in System Administration and Integration.
+Former BCIT Computer Information Systems Administration (CISA) student. Passionate about System Administration and Integration.
 
 🌟 **Interests**:
 Outside of tech, I enjoy going to the gym and staying active. Always up for a chat about IT or web dev.
