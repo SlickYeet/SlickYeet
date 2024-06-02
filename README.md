@@ -12,8 +12,9 @@
 
 💼 **Projects**:
 
-- [Homelab](https://www.famlam.ca/dashboard): Home automation and administration using [Proxmox Virtual Environment](https://www.proxmox.com/en/proxmox-virtual-environment/overview).
+- [Homelab](https://www.famlam.ca/dashboard): Home automation and administration using [Proxmox Virtual Environment](https://www.proxmox.com/en/proxmox-virtual-environment/overview)
 - [www.famlam.ca](https://www.famlam.ca): A homelab hobby web project for friends and family. [GitHub/famlam](https://github.com/SlickYeet/famlam)
+- [docs.famlam.ca](https://docs.famlam.ca): A documentation site for my homelab, detailing configurations, setups, and various IT projects. This site helps in maintaining organized and accessible information for troubleshooting and future expansions. It is open-source and contributions are welcomed. [GitHub/Docs](https://github.com/famlam-ca/hhn-documentation)
 
 🎓 **Education**:
 Currently pursuing my studies in Computer Information Systems Administration (CISA) at BCIT. Particularly interested in System Administration and Integration.
