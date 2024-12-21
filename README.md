@@ -4,15 +4,19 @@
 
 - Skilled with:
 
-  [![My Skills](https://skillicons.dev/icons?i=windows,bash,azure,aws,cloudflare,html,css,htmx,tailwind)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=windows,bash,azure,aws,cloudflare,react,next,ts,tailwind,mysql,prisma)](https://skillicons.dev)
 
 - Currently learning:
 
-  [![Currently learning](https://skillicons.dev/icons?i=next,react,ts,mysql)](https://skillicons.dev)
+  [![Currently learning](https://skillicons.dev/icons?i=react)](https://skillicons.dev)React Native
 
 💼 **Projects**:
 
-- [Homelab](https://www.famlam.ca/dashboard): Home automation and administration using [Proxmox Virtual Environment](https://www.proxmox.com/en/proxmox-virtual-environment/overview)
+> [!WARNING]  
+> The following links are all inactive, since my servers died. No eta on the revival yet.
+
+- [Homelab](https://app.famlam.ca/dashboard): Home automation and administration using [Proxmox Virtual Environment](https://www.proxmox.com/en/proxmox-virtual-environment/overview)
+- [HHN Demo](https://demo.famlam.ca): A demo kanban SaaS project.
 - [www.famlam.ca](https://www.famlam.ca): A homelab hobby web project for friends and family. [GitHub/famlam](https://github.com/SlickYeet/famlam)
 - [docs.famlam.ca](https://docs.famlam.ca): A documentation site for my homelab, detailing configurations, setups, and various IT projects. This site helps in maintaining organized and accessible information for troubleshooting and future expansions. It is open-source and contributions are welcomed. [GitHub/Docs](https://github.com/famlam-ca/hhn-documentation)
 
