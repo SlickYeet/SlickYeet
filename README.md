@@ -8,7 +8,7 @@
 
 - Currently learning:
 
-  [![Currently learning](https://skillicons.dev/icons?i=react)](https://skillicons.dev)React Native
+  [![Currently learning](https://skillicons.dev/icons?i=docker)](https://skillicons.dev) React Native
 
 💼 **Projects**:
 
