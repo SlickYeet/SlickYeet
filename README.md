@@ -1,4 +1,4 @@
-👋 Hi there, I'm Lasse, the owner of [HHN](https://www.famlam.ca). I'm a former BCIT CISA (Computer Information Systems Administration) student with a passion for IT and web development. Here's a bit more about me:
+👋 Hi there, I'm Lasse, the creator/maintainer of everything [HHN](https://www.famlam.ca). I'm a former BCIT CISA (Computer Information Systems Administration) student with a passion for IT and web development. Here's a bit more about me:
 
 🚀 **Skills & Technologies**:
 
