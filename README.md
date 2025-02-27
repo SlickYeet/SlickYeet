@@ -16,7 +16,7 @@
 
 - [Homelab](https://app.famlam.ca): Home automation and administration using [Proxmox Virtual Environment](https://www.proxmox.com/en/proxmox-virtual-environment/overview)
 - [HHN Demo](https://demo.famlam.ca): A demo kanban SaaS project. [HHN v2](https://github.com/famlam-ca/hhn-v2)
-- [www.famlam.ca](https://www.famlam.ca): A homelab hobby web project for friends and family. [HHN v1](https://github.com/famlam-ca/hhn-v1)
+- [app.famlam.ca](https://app.famlam.ca): A homelab hobby web project for friends and family. [HHN v1](https://github.com/famlam-ca/hhn-v1)
 - [docs.famlam.ca](https://docs.famlam.ca): A documentation site for my homelab, detailing configurations, setups, and various IT projects. This site helps in maintaining organized and accessible information for troubleshooting and future expansions. It is open-source and contributions are welcomed. [GitHub/Docs](https://github.com/famlam-ca/hhn-documentation)
 
 🎓 **Education**:
