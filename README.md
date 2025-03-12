@@ -15,7 +15,7 @@
 - [Portfolio](https://lasse.famlam.ca): Visit my portfolio to checkout all my projects
 
 🎓 **Education**:
-Former BCIT Computer Information Systems Administration (CISA) student. Passionate about System Administration and Integration.
+BCIT Computer Information Systems Administration (CISA) alumni. Passionate about System Administration and Integration.
 
 🌟 **Interests**:
 Outside of tech, I enjoy going to the gym and staying active. Always up for a chat about IT or web dev.
