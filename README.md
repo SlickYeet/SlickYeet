@@ -8,7 +8,7 @@
 
 - Currently learning:
 
-Nothing specific, but if you'd like to see my current projcets, visit my portfolio.
+Nothing specific, but if you'd like to see my current projects, visit my portfolio.
 
 💼 **Projects**:
 
