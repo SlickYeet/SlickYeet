@@ -1,4 +1,4 @@
-👋 Hi there, I'm Lasse, the creator/maintainer of everything [HHN](https://www.famlam.ca). I'm a former BCIT CISA (Computer Information Systems Administration) student with a passion for IT and web development. Here's a bit more about me:
+👋 Hi there, I'm Lasse, the creator/maintainer of the [TNT-Powered](https://create.tntstack.org) and everything [HHN](https://www.famlam.ca). I'm a BCIT CISA (Computer Information Systems Administration) alumni with a passion for IT and web development. Here's a bit more about me:
 
 🚀 **Skills & Technologies**:
 
@@ -8,7 +8,7 @@
 
 - Currently learning:
 
-  [![Currently learning](https://skillicons.dev/icons?i=docker)](https://skillicons.dev) React Native
+Nothing specific, but if you'd like to see my current projcets, visit my portfolio.
 
 💼 **Projects**:
 
