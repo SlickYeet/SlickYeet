@@ -1,4 +1,4 @@
-👋 Hi there, I'm Lasse, the creator/maintainer of the [TNT-Powered](https://create.tntstack.org) stack and everything [HHN](https://www.famlam.ca). I'm a BCIT CISA (Computer Information Systems Administration) alumni with a passion for IT and web development. Here's a bit more about me:
+👋 Hi there, I'm Lasse, the creator/maintainer of the [Create Lx2 App](https://create.lx2.dev) and everything [HHN](https://www.famlam.ca). I'm a BCIT CISA (Computer Information Systems Administration) alumni with a passion for IT and web development. Here's a bit more about me:
 
 🚀 **Skills & Technologies**:
 
@@ -12,7 +12,7 @@ Nothing specific, but if you'd like to see my current projects, visit my portfol
 
 💼 **Projects**:
 
-- [Portfolio](https://lasse.famlam.ca): Visit my portfolio to checkout all my projects
+- [Portfolio](https://www.lx2.dev): Visit my portfolio to checkout all my projects
 
 🎓 **Education**:
 BCIT Computer Information Systems Administration (CISA) alumni. Passionate about System Administration and Integration.
@@ -21,4 +21,4 @@ BCIT Computer Information Systems Administration (CISA) alumni. Passionate about
 Outside of tech, I enjoy going to the gym and staying active. Always up for a chat about IT or web dev.
 
 📫 **Contact**:
-Feel free to reach out to me via email at [lasse@famlam.ca](mailto:lasse@famlam.ca). You can also connect with me on [LinkedIn](https://www.linkedin.com/in/lasse-lammers-90a050234/).
+Feel free to reach out to me via email at [lasse@lx2.dev](mailto:lasse@lx2.dev). You can also connect with me on [LinkedIn](https://www.linkedin.com/in/lasse-lammers-90a050234/).
