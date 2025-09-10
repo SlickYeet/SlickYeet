@@ -1,4 +1,4 @@
-👋 Hi there, I'm Lasse, the creator/maintainer of the [Create Lx2 App](https://create.lx2.dev) and everything [HHN](https://www.famlam.ca). I'm a BCIT CISA (Computer Information Systems Administration) alumni with a passion for IT and web development. Here's a bit more about me:
+👋 Hi there, I'm Lasse, the creator/maintainer of the [Create Lx2 App](https://create.lx2.dev) and everything [HHN](https://github.com/famlam-ca). I'm a BCIT CISA (Computer Information Systems Administration) alumni with a passion for IT and web development. Here's a bit more about me:
 
 **Skills & Technologies**:
 
