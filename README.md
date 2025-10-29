@@ -22,3 +22,8 @@ Outside of tech, I enjoy going to the gym and staying active. Always up for a ch
 
 **Contact**:
 Feel free to reach out to me via email at [lasse@lx2.dev](mailto:lasse@lx2.dev). You can also connect with me on [LinkedIn](https://www.linkedin.com/in/lasse-lammers-90a050234/).
+
+> [!NOTE]
+> Currently, we have a guide for deploying to
+> [Vercel](https://create.lx2.dev/docs/vercel), with more deployment options
+> coming soon.
